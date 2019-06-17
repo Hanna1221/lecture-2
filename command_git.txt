@@ -1,0 +1,9 @@
+0)git config --global user.name "yourName" //set name 
+1)git init //create new local repositiry
+2) git status // list new or modified files not commited
+3) git add [file] // added file
+4) git add [file] // added file git commit -m "text commit" //commit all stage files
+5) git branch -b nameBranch // created a new branche called nameBranch and checkout for this branch
+6) git checkout master // checkout on branche master
+7)git merge nameBranche // merge nameBrznche into branche in which you are
+8) git pull // fetch the latest changes from origin and merge
