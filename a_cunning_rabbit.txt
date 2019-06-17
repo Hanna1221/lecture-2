@@ -1,1 +1,5 @@
-A fox and wolf are friends.
+A fox and wolf are friends. 
+words:
+fox
+wolf
+friends
